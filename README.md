@@ -1,6 +1,6 @@
 # Exercise 3 - Git & Github
 
-## Branching
+## Branches
 
 
 
