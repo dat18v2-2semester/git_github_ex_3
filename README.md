@@ -1,2 +1,7 @@
-# git_github_ex_3
-Exercise 3 on Git &amp; Github
+# Exercise 3 - Git & Github
+
+## Branching
+
+
+
+© KEA 2018, clbo
