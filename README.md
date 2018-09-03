@@ -30,7 +30,7 @@ Try to do the whole thing again, but without the _All group members should ````p
 **All group members** should be sure to have an updated version of your project.
 **Each group member** should create a new branch, and then ```` add, commit, push ````.     
 
-**All group members** should create a method called ````drive()```` with a void return type. The methods body should be left empty. 
+**All group members** should create a method called ````drive()```` with a void return type in the RaceTrack.java file. The methods body should be left empty. 
 **Each group member** should  ```` add, commit, push ````.     
 
 **Group member 1** should merge his branch into the master branch.
